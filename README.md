@@ -1,8 +1,8 @@
 > # Welcome to Our Organization's Repository 🎉
 > 
-> ![GitHub Repo stars](https://img.shields.io/github/stars/https://github.com/generate-all/generate-all-in-one.git?style=social)
-> ![GitHub forks](https://img.shields.io/github/forks/https://github.com/generate-all/generate-all-in-one.git?style=social)
-> ![GitHub issues](https://img.shields.io/github/issues/https://github.com/generate-all/generate-all-in-one.git)
+> ![GitHub Repo stars](https://img.shields.io/github/stars/github.com/generate-all/generate-all-in-one.git?style=social)
+> ![GitHub forks](https://img.shields.io/github/forks/github.com/generate-all/generate-all-in-one.git?style=social)
+> ![GitHub issues](https://img.shields.io/github/issues/github.com/generate-all/generate-all-in-one.git)
 > 
 > ---
 > 
