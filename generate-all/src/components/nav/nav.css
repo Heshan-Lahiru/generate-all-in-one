@@ -1,0 +1,76 @@
+
+.navbar {
+    background: linear-gradient(135deg, #f06, #c4e0e5);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Logo */
+  .navbar-logo {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Links */
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+  }
+  
+  .navbar-links li {
+    margin-left: 20px;
+  }
+  
+  .navbar-links a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.2em;
+    padding: 5px 15px;
+    border-radius: 25px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .navbar-links a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  /* Responsive Menu (for smaller screens) */
+  .navbar-toggle {
+    display: none;
+    font-size: 2em;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 768px) {
+    .navbar-links {
+      display: none;
+      flex-direction: column;
+    }
+    
+    .navbar-toggle {
+      display: block;
+    }
+    
+    .navbar.active .navbar-links {
+      display: flex;
+      position: absolute;
+      top: 60px;
+      left: 0;
+      width: 100%;
+      background: rgba(0, 0, 0, 0.8);
+    }
+    
+    .navbar-links li {
+      text-align: center;
+      padding: 10px 0;
+    }
+  }
+  
