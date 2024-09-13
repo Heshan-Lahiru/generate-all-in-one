@@ -76,12 +76,12 @@
 > Feel free to reach out:
 > 
 > - **Email**: lahiruheshan454@gmail.com
-> - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/lahiru-heshan-20175b299/)
-> - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/bihan-madhusankha-2b61142b6/)
-> - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/malindu-delpitiya/)
-> - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/shiwantha-prasad-4792502ab/)
+> - **LinkedIn**: [Heshan LinkedIn](https://www.linkedin.com/in/lahiru-heshan-20175b299/)
+> - **LinkedIn**: [Bihan LinkedIn](https://www.linkedin.com/in/bihan-madhusankha-2b61142b6/)
+> - **LinkedIn**: [Malindu LinkedIn](https://www.linkedin.com/in/malindu-delpitiya/)
+> - **LinkedIn**: [Shiwantha LinkedIn](https://www.linkedin.com/in/shiwantha-prasad-4792502ab/)
 
-> - **GitHub**: [Your GitHub](https://github.com/Heshan-Lahiru)
-> - **GitHub**: [Your GitHub](https://github.com/BihanMadhusankha)
-> - **GitHub**: [Your GitHub](https://github.com/MalinduDelpitiya55)
-> - **GitHub**: [Your GitHub](https://github.com/SHIWANTHAofficial)
+> - **GitHub**: [Heshan GitHub](https://github.com/Heshan-Lahiru)
+> - **GitHub**: [Bihan GitHub](https://github.com/BihanMadhusankha)
+> - **GitHub**: [Malindu GitHub](https://github.com/MalinduDelpitiya55)
+> - **GitHub**: [Shiwantha GitHub](https://github.com/SHIWANTHAofficial)
