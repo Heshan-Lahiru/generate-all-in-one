@@ -17,6 +17,7 @@
 > - 🔧 **GENERATE IMAGE**: AI IMAGE.
 > - 🚀 **GENERATE VIDEO**: AI VIDEO.
 > - 🛠️ **GENERATE PDF**: AI PDF.
+> - 🤝 **GENERATE Audio**: AI Audio.
 > 
 > ---
 > 
